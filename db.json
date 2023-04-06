@@ -1,5 +1,5 @@
 {
-    "Todo_Data":[
-
-    ]
+"tasks": [],
+"filteredTasks": [],
+"filterType": "All"
 }
